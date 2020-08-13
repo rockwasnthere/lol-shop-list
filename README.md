@@ -1,3 +1,7 @@
+<p align="center">
+	<img src="https://img.shields.io/badge/PATCH-v%2010.16.1-green.svg" alt="for humans">
+</p>
+
 # League of Legends - List of champions for the store (in human format)
 
 All champions from
@@ -8,10 +12,6 @@ with dependences to (Splashes,Loading screens,Avatars)
 ```
 http://ddragon.leagueoflegends.com/cdn/10.16.1/data/en_US/champion/ChampionName.json
 ```
-
-<p align="center">
-	<img src="https://img.shields.io/badge/PATCH-v%2010.16.1-green.svg" alt="for humans">
-</p>
 
 #### Preview:
 
