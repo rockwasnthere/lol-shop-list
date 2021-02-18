@@ -1,16 +1,16 @@
 <p align="center">
-	<img src="https://img.shields.io/badge/PATCH-v%2011.3.1-green.svg" alt="for humans">
+	<img src="https://img.shields.io/badge/PATCH-v%2011.4.1-green.svg" alt="for humans">
 </p>
 
 # League of Legends - List of champions for the store (in human format)
 
 All champions from
 ```
-http://ddragon.leagueoflegends.com/cdn/11.3.1/data/en_US/champion.json
+http://ddragon.leagueoflegends.com/cdn/11.4.1/data/en_US/champion.json
 ```
 with dependences to (Splashes,Loading screens,Avatars)
 ```
-http://ddragon.leagueoflegends.com/cdn/11.3.1/data/en_US/champion/ChampionName.json
+http://ddragon.leagueoflegends.com/cdn/11.4.1/data/en_US/champion/ChampionName.json
 ```
 
 #### Preview:
@@ -44,7 +44,7 @@ http://ddragon.leagueoflegends.com/cdn/11.3.1/data/en_US/champion/ChampionName.j
             ],
             "square":
             {
-                "link": "http://ddragon.leagueoflegends.com/cdn/11.3.1/img/champion/Aatrox.png"
+                "link": "http://ddragon.leagueoflegends.com/cdn/11.4.1/img/champion/Aatrox.png"
             }
         }
         // ...
